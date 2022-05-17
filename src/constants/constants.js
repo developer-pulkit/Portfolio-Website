@@ -11,7 +11,7 @@ export const projects = [
   {
     title: 'Spice roots recipe world',
     description:"",
-    image: '/images/SpiceRoots',
+    image: '/images/SpiceRoots.png',
     tags: ['React','','React Router'],
     source: 'https://github.com/297pulkitmehta/RecipeWorld',
     visit: 'https://google.com',
@@ -20,7 +20,7 @@ export const projects = [
   {
     title: 'Display Card',
     description: "",
-      image: '/images/DisplayCard',
+      image: '/images/DisplayCard.png',
       tags: ['React'],
     source: 'https://github.com/297pulkitmehta/Display-Card',
     visit: 'https://google.com',
