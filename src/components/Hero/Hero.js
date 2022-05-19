@@ -18,7 +18,7 @@ const Hero = (props) => (
         Career Objective
       </SectionTitle>
       <SectionText>
-       Looking to obtain the position of Software Developer in a fact-paced tech experience to utilize well honed skills in computer science and extensive experience in developing customized software based on varying client demands. Seamlessly manages workloads and meets challenging deadlines and quality benchmarks. Strong understanding of common web technologies, languagues and frameworks.
+      Looking to obtain the position of Software Developer in tech environment to utilize well honed skills in computer science and extensive experience in developing customized software based on varying client demands. Seamlessly manages workloads and meets challenging deadlines and quality benchmarks. Strong understanding of common web technologies, languagues and frameworks.
       </SectionText>
       {/* <Button onClick={()=>window.location='https://google.com'}>Learn More</Button> */}
     </LeftSection>

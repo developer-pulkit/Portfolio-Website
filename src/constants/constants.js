@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'NewsFlash',
-    description: "Frontend development blog project",
+    description: "Frontend development project",
       image: '/images/1.jpg',
       tags: ['HTML', 'CSS', 'Javascript'],
     source: 'https://github.com/297pulkitmehta',
@@ -10,7 +10,7 @@ export const projects = [
   },
   {
     title: 'Spice roots recipe world',
-    description:"",
+    description:"Frontend development project",
     image: '/images/SpiceRoots.png',
     tags: ['React','','React Router'],
     source: 'https://github.com/297pulkitmehta/RecipeWorld',
@@ -19,7 +19,7 @@ export const projects = [
   },
   {
     title: 'Display Card',
-    description: "",
+    description: "Frontend development project",
       image: '/images/DisplayCard.png',
       tags: ['HTML', 'CSS', 'Javascript','React'],
     source: 'https://github.com/297pulkitmehta/Display-Card',
@@ -28,7 +28,7 @@ export const projects = [
   },
   {
     title: 'Library Tracker',
-    description: "",
+    description: "Frontend development project",
       image: '/images/DisplayCard.png',
       tags: ['HTML', 'CSS', 'Javascript'],
     source: 'https://github.com/297pulkitmehta/Display-Card',
@@ -37,7 +37,7 @@ export const projects = [
   },
   {
     title: 'Tic-Tac-Too',
-    description: "",
+    description: "Frontend development project",
       image: '/images/DisplayCard.png',
       tags: ['HTML', 'CSS', 'Javascript'],
     source: 'https://github.com/297pulkitmehta/Tic-Tac-Too',
