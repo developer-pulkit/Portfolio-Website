@@ -1,13 +1,13 @@
 export const projects = [
-  // {
-  //   title: 'NewsFlash',
-  //   description: "Frontend development blog project",
-  //     image: '/images/1.jpg',
-  //     tags: ['HTML', 'CSS', 'Javascript'],
-  //   source: 'https://google.com',
-  //   visit: 'https://google.com',
-  //   id: 0,
-  // },
+  {
+    title: 'NewsFlash',
+    description: "Frontend development blog project",
+      image: '/images/1.jpg',
+      tags: ['HTML', 'CSS', 'Javascript'],
+    source: 'https://github.com/297pulkitmehta',
+    visit: 'https://google.com',
+    id: 0,
+  },
   {
     title: 'Spice roots recipe world',
     description:"",
@@ -21,10 +21,28 @@ export const projects = [
     title: 'Display Card',
     description: "",
       image: '/images/DisplayCard.png',
-      tags: ['React'],
+      tags: ['HTML', 'CSS', 'Javascript','React'],
     source: 'https://github.com/297pulkitmehta/Display-Card',
     visit: 'https://google.com',
     id: 2,
+  },
+  {
+    title: 'Library Tracker',
+    description: "",
+      image: '/images/DisplayCard.png',
+      tags: ['HTML', 'CSS', 'Javascript'],
+    source: 'https://github.com/297pulkitmehta/Display-Card',
+    visit: 'https://google.com',
+    id: 3,
+  },
+  {
+    title: 'Tic-Tac-Too',
+    description: "",
+      image: '/images/DisplayCard.png',
+      tags: ['HTML', 'CSS', 'Javascript'],
+    source: 'https://github.com/297pulkitmehta/Tic-Tac-Too',
+    visit: 'https://google.com',
+    id: 4,
   },
 ];
 
