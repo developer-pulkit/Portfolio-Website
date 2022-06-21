@@ -1,6 +1,6 @@
 export const projects = [
   {
-    title: "Tic-Tac-Too",
+    title: "Tic-Tac-Too Game",
     description: "- Built a game using Vanila Javascript",
     image: "/images/DisplayCard.png",
     tags: ["HTML", "CSS", "Javascript"],
@@ -9,7 +9,7 @@ export const projects = [
     id: 4,
   },
   {
-    title: "Rock Paper Scissors",
+    title: "Rock-Paper-Scissors Game",
     description: "- Built a Rock Paper Scissors Game using Vanila Javascript",
     image: "/images/DisplayCard.png",
     tags: ["HTML", "CSS", "Javascript"],
@@ -18,8 +18,17 @@ export const projects = [
     id: 4,
   },
   {
-    title: "Dictionary Application",
-    description: "- Built a dictionary app using React and material UI library",
+    title: "Air Travel Website",
+    description:
+      "- Built a Fully Responsive Website With HTML/CSS/Javascript - Flex & CSS Grid Layout",
+    tags: ["HTML", "CSS", "Javascript"],
+    source: "https://github.com/developer-pulkit/Air-Travel",
+    visit: "https://google.com",
+    id: 4,
+  },
+  {
+    title: "Dictionary Project",
+    description: "- Built a dictionary app in React with material UI library",
     image: "/images/1.jpg",
     tags: ["React JS", "", "Material UI"],
     source: "https://github.com/developer-pulkit/Word-hunt-dictionary-app",
@@ -27,9 +36,9 @@ export const projects = [
     id: 0,
   },
   {
-    title: "Spice roots recipe world",
+    title: "Recipe Website",
     description:
-      "- Built a food recipe website using React and react-router library",
+      "- Built a food recipe website in React with react-router library",
     image: "/images/SpiceRoots.png",
     tags: ["React", "", "React Router"],
     source: "https://github.com/297pulkitmehta/RecipeWorld",
@@ -38,9 +47,9 @@ export const projects = [
   },
 
   {
-    title: "Netflix clone",
+    title: "Netflix Clone Project",
     description:
-      "- I built a front-end Netflix clone using React Js and tailwind CSS with a Firebase back-end! We use the TMDB API for all of the data AND we will be using Firebase Authentication to give login functionality",
+      "- Built a front-end Netflix clone in React Js with tailwind CSS and with a Firebase back-end! We use the TMDB API for all of the data AND we will be using Firebase Authentication to give login functionality",
     image: "/images/DisplayCard.png",
     tags: ["React", "Tailwind CSS", "Firebase"],
     source: "https://github.com/developer-pulkit/Netflix-Clone",
@@ -48,13 +57,27 @@ export const projects = [
     id: 4,
   },
   {
-    title: "Travel Advisor",
+    title: "3 different style login pages",
+    description: "- Build 3 Custom Login Pages in React JS Using Tailwind CSS",
+    tags: ["React", "Tailwind CSS"],
+    source: "https://github.com/developer-pulkit/login-pages",
+    visit: "https://google.com",
+    id: 4,
+  },
+  {
+    title: "Shopping Cart Project",
+    description: "- Built a shopping cart in React JS using Redux-Toolkit",
+    tags: ["React", "Redux-toolkit"],
+    source: "https://github.com/developer-pulkit/Cart-Redux-toolkit",
+    visit: "https://google.com",
+    id: 4,
+  },
+  {
+    title: "Cloud Management Project",
     description:
-      "- I built a Google Maps Travel Companion Application. Geolocation, Google Maps API & Google Places API, fetching API data based on the location, data filtering are just some features that make this Travel Advisor App the best Maps Application",
-    image: "/images/DisplayCard.png",
-    tags: ["React"],
-    source:
-      "https://github.com/developer-pulkit/Google-Maps-Travel-Companion-Application",
+      "- Built a Fully Responsive front-end project in React JS using Tailwind CSS ",
+    tags: ["React", "Redux-toolkit"],
+    source: "https://github.com/developer-pulkit/cloud-management-wesbite",
     visit: "https://google.com",
     id: 4,
   },
